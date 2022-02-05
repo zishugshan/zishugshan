@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-zeeshan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
 [![Website Badge](https://img.shields.io/badge/-zishugshan.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://zishugshan.github.io)](https://zishugshan.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-@_zishugshan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zishugshan)](https://twitter.com/zishugshan)
-[![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
+[![Instagram Badge](https://img.shields.io/badge/-@_zishugshan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_._zy___/)](https://instagram.com/_._zy___/)
 [![Gmail Badge](https://img.shields.io/badge/-jessicalim813-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:jessicalim813@gmail.com)](mailto:jessicalim813@gmail.com)
 
 Welcome to my profile! I'm a student, aspiring [writer](https://medium.com/@_jessicalim), part-time coder and full-time adventure seeker. I am current interning @Wealthsimple, and have previously PM'd @Autodesk, SWE'd @Microsoft, and UX&D consulted @Deloitte. Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/jlim/)!
