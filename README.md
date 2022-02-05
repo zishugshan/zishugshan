@@ -6,5 +6,5 @@
 [![Instagram Badge](https://img.shields.io/badge/-@_zishugshan-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_._zy___/)](https://instagram.com/_._zy___/)
 [![Gmail Badge](https://img.shields.io/badge/-zshnqmr1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zshnqmr1@gmail.com)](mailto:zshnqmr1@gmail.com)
 
-Welcome to my profile! I'm a student, aspiring [Software Developer](https://www.linkedin.com/in/zeeshan-manit/), part-time adventure seeker and full-time explorer&Coder.
+Welcome to my profile! I'm a student, aspiring [Software Developer](https://zishugshan.github.io), part-time adventure seeker and full-time explorer&Coder.
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
