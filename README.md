@@ -10,15 +10,80 @@ Welcome to my profile! I'm a student, aspiring [Software Developer](https://zish
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
 
 
-### :zap: Recent Activity
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#30](https://github.com/jamesgeorge007/csstox/pull/30) in [jamesgeorge007/csstox](https://github.com/jamesgeorge007/csstox)
-2. 🎉 Merged PR [#227](https://github.com/madlabsinc/mevn-cli/pull/227) in [madlabsinc/mevn-cli](https://github.com/madlabsinc/mevn-cli)
-3. 💪 Opened PR [#14602](https://github.com/webpack/webpack/pull/14602) in [webpack/webpack](https://github.com/webpack/webpack)
-4. 💪 Opened PR [#3019](https://github.com/webpack/webpack-cli/pull/3019) in [webpack/webpack-cli](https://github.com/webpack/webpack-cli)
-5. 💪 Opened PR [#1605](https://github.com/nuxt/framework/pull/1605) in [nuxt/framework](https://github.com/nuxt/framework)
-<!--END_SECTION:activity-->
+## Instructions
+
+- Add the comment `<!--START_SECTION:activity-->` (entry point) within `README.md`. You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/README.md).
+
+- It's the time to create a workflow file.
+
+`.github/workflows/update-readme.yml`
+
+```yml
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+The above job runs every half an hour, you can change it as you wish based on the [cron syntax](https://jasonet.co/posts/scheduled-actions/#the-cron-syntax).
+
+Please note that only those public events that belong to the following list show up:-
+
+- `IssueEvent`
+- `IssueCommentEvent`
+- `PullRequestEvent`
+
+You can find an example [here](https://github.com/jamesgeorge007/jamesgeorge007/blob/master/.github/workflows/update-readme.yml).
+
+### Override defaults
+
+Use the following `input params` to customize it for your use case:-
+
+| Input Param | Default Value | Description |
+|--------|--------|--------|
+| `COMMIT_MSG` | :zap: Update README with the recent activity | Commit message used while committing to the repo |
+| `MAX_LINES` | 5 | The maximum number of lines populated in your readme file |
+
+
+```yml
+name: Update README
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with recent activity
+
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: 'Specify a custom commit message'
+          MAX_LINES: 10
+```
+
+_Inspired by [JasonEtco/activity-box](https://github.com/JasonEtco/activity-box)_
+
 
 **languages and tools:**  
 
