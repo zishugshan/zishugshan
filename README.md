@@ -9,6 +9,11 @@
 Welcome to my profile! I'm a student, aspiring [Software Developer](https://zishugshan.github.io), part-time adventure seeker and full-time explorer&Coder.
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
 
+## Skills and Experience
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
+
 
 **languages and tools:**  
 
