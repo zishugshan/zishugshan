@@ -1,6 +1,6 @@
 # Hi I'm Zeeshan 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-jlim-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
+[![Linkedin Badge](https://img.shields.io/badge/-zeeshan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
 [![Website Badge](https://img.shields.io/badge/-jessicalim.me-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://jessicalim.me)](https://jessicalim.me)
 [![Twitter Badge](https://img.shields.io/badge/-@__jesslim-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_jesslim)](https://twitter.com/_jesslim)
 [![Instagram Badge](https://img.shields.io/badge/-@__jessicaalim-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_jessicaalim/)](https://instagram.com/_jessicaalim)
