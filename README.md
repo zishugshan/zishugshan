@@ -1,3 +1,4 @@
+<img align="right" alt="GIF" width="400" height="500" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 ## Hi, I'm [Zeeshan!](https://zishugshan.github.io) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![Linkedin Badge](https://img.shields.io/badge/-zeeshan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
@@ -13,7 +14,7 @@ part-time adventure seeker and full-time explorer&Coder.<br/>
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
 
 <br/>
-<img align="right" alt="GIF" width="400" height="500" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+
 
 
 
