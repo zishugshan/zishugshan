@@ -27,3 +27,13 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeesha
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></br>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></br>
+
+### 📊 Github Stats
+<a href='https://github.com/zishugshan/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/zishugshan/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/zishugshan/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
