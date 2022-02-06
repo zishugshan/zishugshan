@@ -13,7 +13,7 @@ part-time adventure seeker and full-time explorer&Coder.<br/>
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
 
 <br/>
-<img style="float:right" width="400" height="500" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+<img align="right" alt="GIF" width="400" height="500" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
 
 
