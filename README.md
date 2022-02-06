@@ -5,10 +5,15 @@ Hi, I'm [Zeeshan!](https://zishugshan.github.io) <img src="https://media.giphy.c
 [![Twitter Badge](https://img.shields.io/badge/-@_zishugshan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zishugshan)](https://twitter.com/zishugshan)
 [![Instagram Badge](https://img.shields.io/badge/-@__._zy___-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_._zy___/)](https://instagram.com/_._zy___/)
 [![Gmail Badge](https://img.shields.io/badge/-zshnqmr1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zshnqmr1@gmail.com)](mailto:zshnqmr1@gmail.com)
-<img style="float:right" width="400" height="500" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
+
+
 
 Welcome to my profile! I'm a student, aspiring [Software Developer](https://zishugshan.github.io), part-time adventure seeker and full-time explorer&Coder.
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
+
+<br/>
+<br/>
+<img style="float:right" width="400" height="500" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif">
 
 
 
