@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" width="400" height="500" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"><br/>
+<img align="right" alt="GIF" width="400" height="400" src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif"><br/>
 # Hi, I'm [Zeeshan!](https://zishugshan.github.io) <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 [![Linkedin Badge](https://img.shields.io/badge/-zeeshan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
@@ -7,18 +7,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-@__._zy___-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/_._zy___/)](https://instagram.com/_._zy___/)
 [![Gmail Badge](https://img.shields.io/badge/-zshnqmr1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zshnqmr1@gmail.com)](mailto:zshnqmr1@gmail.com)
 
-
-
 Welcome to my profile! I'm a student, aspiring [Software Developer](https://zishugshan.github.io), <br/>
 part-time adventure seeker and full-time explorer&Coder.<br/>
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
-
-<br/>
-
-
-
-
-
 
 **languages and tools:**  
 
