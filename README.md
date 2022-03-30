@@ -12,7 +12,7 @@ part-time adventure seeker and full-time explorer&Coder.<br/>
 Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
 
 **languages and tools:**  
-
+________________________________________________________________________________ | ______________________________________________________
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&emsp;&emsp; |
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&emsp;&emsp; | 
