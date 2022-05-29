@@ -26,20 +26,3 @@ Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeesha
 ## 2. Most Used Languages
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zishugshan&theme=blue-green)
 --------------------------------------------------------------------
-## 3. Contributors Badge
-<a href="https://github.com/zishugshan/zishugshan.github.io/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=zishugshan/zishugshan.github.io" />
-</a>
-Made with [contributors-img](https://contrib.rocks).
-<br/>
---------------------------------------------------------------------
-## 4. Random Joke Generator
-## 😂 Here is a random joke that'll make you laugh!
-![Jokes Card](https://readme-jokes.vercel.app/api)
---------------------------------------------------------------------
-</br>
-## 5. Profile View Counter
-<img src="https://komarev.com/ghpvc/?username=zishugshan"/>
-### HITS
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/zishugshan/zishugshan.github.io)
-
