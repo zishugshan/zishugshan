@@ -21,22 +21,20 @@
 - 📫 Reach me: [linkedin.com/in/zeeshan-manit/](https://www.linkedin.com/in/zeeshan-manit/)
 - 📝 Checkout my [Resume](https://drive.google.com/file/d/1EJB8xfGTBheXsGh4QzxGdkxopNNJuBa0/view?usp=sharing).
 
-Welcome to my profile! I'm a student, aspiring [Software Developer](https://zishugshan.github.io), <br/>
-part-time adventure seeker and full-time explorer&Coder.<br/>
-Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/zeeshan-manit/)!
 
-**languages and tools:**  
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&emsp;&emsp; 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></br>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&emsp;&emsp; 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code></br>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&emsp;&emsp;
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code></br>
+### languages and tools: 
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&emsp;&emsp; 
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>&emsp;&emsp; 
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&emsp;&emsp;
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=zishugshan&show_icons=true)
---------------------------------------------------------------------
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zishugshan&theme=blue-green)
---------------------------------------------------------------------
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zishugshan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zishugshan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
