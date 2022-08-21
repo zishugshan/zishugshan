@@ -1,5 +1,4 @@
 # Hi, I'm [Zeeshan!](https://zishugshan.github.io) a final year Computer Science Student.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-
 [![Linkedin Badge](https://img.shields.io/badge/-zeeshan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
 [![Website Badge](https://img.shields.io/badge/-zishugshan.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://zishugshan.github.io)](https://zishugshan.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-@_zishugshan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zishugshan)](https://twitter.com/zishugshan)
@@ -37,4 +36,22 @@
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zishugshan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zishugshan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<b>&#128200; Problem Solving </b>
+
+<img height="300em" src="https://leetcard.jacoblin.cool/zishugshan?theme=light&font=Karma&ext=contest" />
+
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://twitter.com/zishugshan">
+  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
+</a> 
+<a href="https://www.linkedin.com/in/zeeshan-manit/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+<a href="mailto:zshnqmr1@gmail.com">
+  <img src="	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
 </p>
