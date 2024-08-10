@@ -20,7 +20,7 @@
 - 🌍 I'm mostly active within the **DSA Discussions**
 - 🌱 Learning all about **ReactJs and NodeJs**
 - 📫 Reach me: [linkedin.com/in/zeeshan-manit/](https://www.linkedin.com/in/zeeshan-manit/)
-- 📝 Checkout my [Resume](https://drive.google.com/file/d/1EJB8xfGTBheXsGh4QzxGdkxopNNJuBa0/view?usp=sharing).
+- 📝 Checkout my [Resume](https://github.com/zishugshan/zishugshan/blob/main/zeeshan_resume.pdf).
 
 
 ### languages and tools: 
