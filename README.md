@@ -6,7 +6,9 @@
 [![Gmail Badge](https://img.shields.io/badge/-zshnqmr1-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:zshnqmr1@gmail.com)](mailto:zshnqmr1@gmail.com)
 
 #### Now
-
+- 📱Working in 4G LTE IMS, with a focus on SCSCF.
+- Proficient in managing user data using Cassandra, ensuring efficient and reliable telecommunications services.
+- Dedicated to optimizing performance and scalability in telecom systems.
 - ✨ Contributing to [open source](https://github.com/WikiEducationFoundation/WikiEduDashboard);
 - :fire: Interested in DevOps and Web3 Technology;
 - :calendar: Looking for contributing to ReactJs and NodeJs based open source projects 
