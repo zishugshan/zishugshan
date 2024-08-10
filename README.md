@@ -1,4 +1,4 @@
-# Hi, I'm [Zeeshan!](https://zishugshan.github.io) a final year Computer Science Student.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hi, I'm [Zeeshan!](https://zishugshan.github.io) a Software Engineer at C-DOT.  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 [![Linkedin Badge](https://img.shields.io/badge/-zeeshan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jzeeshan-manit/)](https://www.linkedin.com/in/zeeshan-manit/)
 [![Website Badge](https://img.shields.io/badge/-zishugshan.github.io-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://zishugshan.github.io)](https://zishugshan.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-@_zishugshan-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/zishugshan)](https://twitter.com/zishugshan)
@@ -13,7 +13,7 @@
 
 #### Bio
 
-- 🏢 I'm currently pursuing Bachelors in Computer Science at **MANIT Bhopal**
+- 🏢 Completed a Bachelor’s degree in Computer Science from **MANIT Bhopal**
 - ⚙️ I use daily: `.cpp` on **Leetcode**
 - 🌍 I'm mostly active within the **DSA Discussions**
 - 🌱 Learning all about **ReactJs and NodeJs**
